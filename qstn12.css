@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    color:white;
+    background-image: url("pexels-couleur-2317904.jpg");
+    background-size: cover;
+    position:fixed;
+    right:0px;
+    
+}
