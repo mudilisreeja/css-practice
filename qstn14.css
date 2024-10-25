@@ -1,0 +1,14 @@
+.outer{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+}
+.inner{
+    background-color: rgb(43, 226, 165);
+     height: 100px;
+     width: 100px;
+
+}
