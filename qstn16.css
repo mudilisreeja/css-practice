@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(37, 142, 233);
+    border: 2px solid black;
+    transition-property: all;
+    transition-delay: 2s;
+    transition-duration: 1s;
+    transition-timing-function:ease-in;
+    
+}
+div:hover{
+    background-color: rgb(208, 226, 43);
+    font-size: 20px;
+   
+}
+div:active{
+    background-color: red;
+    color: white;
+}
